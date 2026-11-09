@@ -1,0 +1,9 @@
+{
+  "name": "window-marbles",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Marbles fall from one browser window into another. Build the track by moving windows.",
+  "scripts": { "start": "node server.js", "test": "node --test test.js" },
+  "license": "MIT"
+}
